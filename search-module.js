@@ -1,0 +1,1 @@
+﻿var searchModule = angular.module('search', []);
